@@ -51,7 +51,8 @@
 .likebutton,
 .more-options-button {
   width: 80px;
-  display: inline-block;
+  /* display: inline-block; */
+  font-weight: bold;
 }
 
 .like-count,
@@ -59,6 +60,6 @@
   position: relative;
   bottom: 2px;
   font-size: 13px;
-  margin-left: 6px;
+  margin-left: 2px;
   font-weight: bold;
 }
